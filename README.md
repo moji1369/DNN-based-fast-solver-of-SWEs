@@ -1,1 +1,1 @@
-# DNN-based-fast-solver-of-thw-SWEs
+# DNN-based-fast-solver-of-the-SWEs
